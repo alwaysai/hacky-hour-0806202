@@ -1,4 +1,6 @@
 # hacky-hour-0806202
+![Screen Shot 2020-08-04 at 2 09 13 PM](https://user-images.githubusercontent.com/21957723/89355485-5640f400-d670-11ea-8421-4f2d6ecba664.png)
+
 Source code for the August 6 2020 Hacky Hour!  Demonstrates how a computer vision application can be used in manufacturing to confirm that a worker has chosen the correct component for assembly of a product.  The cv application finds the roi associated with an illuminated LED on a tray shelve.  It then checks to see if the workers hand has picked up the correct component using a hand detection model and overlapping rectangles algorithm between roi and hand detection bounding box.  The bounding box of hand detector turns green when the correct component is chosen and remains red until that occurs.
 ## Repo Programs
 | Folder                     	| Description                                                                                              	|
