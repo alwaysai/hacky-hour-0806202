@@ -21,7 +21,7 @@ Run: `aai app start`
 
 If you are using a Mac or Windows 10 PC do the following:
 
-Go to the tray-program directory and enter the following commands
+Go to the tray-program directory and enter the following CLI commands
 
 Configure (once): `aai app configure`
 
