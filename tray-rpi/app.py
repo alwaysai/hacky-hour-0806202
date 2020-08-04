@@ -3,7 +3,7 @@ import edgeiq
 import cv2
 import numpy as np
 """
-This applictions finds the roi associated with an illuminated LED on a tray shelve.
+This application finds the roi associated with an illuminated LED on a tray shelve.
 It then checks to see if the workers hand has picked up the correct electronics
 component using a hand detection model and overlapping rectangles algorithm between
 roi and hand detection bounding box.
