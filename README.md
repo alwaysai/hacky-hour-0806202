@@ -17,7 +17,7 @@ Go to the tray-rpi directory and enter the following commands
 
 Configure (once): `aai app configure`
 
-Build: `aai app deploy`
+Build: `aai app install`
 
 Run: `aai app start`
 
