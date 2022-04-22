@@ -39,6 +39,7 @@ Docs: https://dashboard.alwaysai.co/docs/getting_started/introduction.html
 
 Realsense API Docs: https://alwaysai.co/docs/edgeiq_api/real_sense.html
 
-Community Discord: https://discord.gg/R2uM36U
+Community Discord: https://discord.gg/alwaysai
 
 Email: contact@alwaysai.co
+
