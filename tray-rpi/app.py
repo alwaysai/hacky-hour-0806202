@@ -40,7 +40,7 @@ def main():
     # Load object detection class, model and choose accelerator
     obj_detect = edgeiq.ObjectDetection(
             "alwaysai/hand_detection")
-    obj_detect.load(engine=edgeiq.Engine.DNN_OPENVINO)
+    obj_detect.load(engine=edgeiq.Engine.DNN)
 
     # print model, DNN engine and accelerator, and labels associated with
     # the object detection class
